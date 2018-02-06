@@ -1,0 +1,27 @@
+p {
+	font-size:xx-large;
+	color:white;
+	text-shadow: 2px 0 0 black;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.underline{
+	
+	text-decoration: underline;
+}
+
+.third-split {
+	height: 33%;
+	text-align: center;
+	border: 5px;
+	border-style: solid;
+	background-color: darkred;
+}
+
+.container-fluid {
+	//margin-right: auto;
+	//margin-left: auto;
+}
